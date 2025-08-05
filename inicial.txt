@@ -1,1 +1,2 @@
 Este é o commit inicial do projeto.
+Texto da segunda feature: ajuste no layout da tela inicial.
