@@ -1,2 +1,3 @@
 Este é o commit inicial do projeto.
 Texto da primeira feature: função de login implementada.
+Texto da segunda feature: ajuste no layout da tela inicial.
